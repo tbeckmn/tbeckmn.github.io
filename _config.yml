@@ -3,6 +3,8 @@ logo: "/images/profile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hello, I'm Tracey. I'm a Digital Marketing Specialist based in Madison, Wisconsin. I have 5+ years experience in digital marketing with an emphasis in content marketing, social media marketing, email marketing, and SEO.
   <br><br>
+  <a href="https://tbeckmn.github.io/about">Learn More About Me</a> 
+  <br><br>
   <a href="https://www.linkedin.com/in/tbeckmn/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
