@@ -38,19 +38,15 @@ Here are some of my favorite client blog posts:
 
 ---
 
-### More 
+### Other Projects
 
-TBD
+Other fun & noteworthy things I've done:
 
----
-
-### Category Name 2
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- [The Heart of Madison](https://www.concoursehotel.com/around-madison) - An employee-curated list of things to eat, drink, and do in Madison.
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
 
 ---
 
