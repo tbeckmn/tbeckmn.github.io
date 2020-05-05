@@ -6,15 +6,16 @@
 
 <img src="images/concourse.png?raw=true"/>
 
-I currently work at [The Madison Concourse Hotel and Governor's Club](https://www.concoursehotel.com/).
+I currently work at [The Madison Concourse Hotel and Governor's Club](https://www.concoursehotel.com/) as a Digital Marketing Specialist.
 
 Here are some of my favorite blog posts:
 
-- [8 Ideas For Romantic Date Nights In Madison, Wisconsin](https://www.concoursehotel.com/blog/date-night-ideas-madison-wisconsin)
+- [8 Ideas For Romantic Date Nights In Madison](https://www.concoursehotel.com/blog/date-night-ideas-madison-wisconsin)
 - [Best Things To Do In Madison In The Fall](https://www.concoursehotel.com/blog/things-to-do-in-madison-fall)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [The Ultimate Guide To Dane County Farmers' Market](https://www.concoursehotel.com/blog/dane-county-farmers-market)
+- [8 Haunted Places You Should Visit In Madison](https://www.concoursehotel.com/blog/haunted-madison)
+- [How To Make Your Event More Shareworthy On Social Media](https://www.concoursehotel.com/blog/social-media-shareworthy-event)
+- [Why You Should Skip The Outdoor Barn Wedding Trend](https://www.concoursehotel.com/blog/skip-outdoor-barn-wedding-trend)
 
 Here are some other cool projects:
 
@@ -31,9 +32,9 @@ Here are some other cool projects:
 
 I started my career working for digital marketing agencies in Portland, Oregon. I created content mostly for small and midsized service busniesses with the goal of lead generation.
 
-I filled the role of lead writer as well as managing editor of a team of writers and designers. Our team produced high-quality, strategy-driven content on schedule for websites, blogs, social media, and marketing emails. 
+I filled the role of lead writer as well as managing editor of a team of writers and designers. Our team produced high-quality, strategy-driven content on schedule for websites, blogs, social media, and marketing emails.
 
-I worked with clients directly on content strategy and created reports based on website, social media, and email analytics. 
+I also worked with clients directly on content strategy and created analytics reports.
 
 Here are some of my favorite client blog posts:
 
