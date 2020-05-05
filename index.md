@@ -4,9 +4,7 @@
 
 ### Recent Work 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-**The Madison Concourse Hotel and Governor's Club**
+<img src="images/concourse.png?raw=true"/>
 
 I currently work at [The Madison Concourse Hotel and Governor's Club](https://www.concoursehotel.com/).
 
@@ -18,19 +16,9 @@ Here are some of my favorite blog posts:
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
----
+Here are some other projects:
 
-### Past Work
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-**Digital Marketing Agencies**
-
-I started my career in digital marketing at two busy agencies in Portland, Oregon.
-
-Here are some of my favorite client blog posts:
-
-- [Project 1 Title](http://example.com/)
+- [The Heart of Madison](https://www.concoursehotel.com/around-madison) - An employee-curated list of things to eat, drink, and do in Madison.
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
@@ -38,11 +26,15 @@ Here are some of my favorite client blog posts:
 
 ---
 
-### Other Projects
+### Past Work
 
-Other fun & noteworthy things I've done:
+<img src="images/portland.png?raw=true"/>
 
-- [The Heart of Madison](https://www.concoursehotel.com/around-madison) - An employee-curated list of things to eat, drink, and do in Madison.
+I started my career working for digital marketing agencies in Portland, Oregon.
+
+Here are some of my favorite client blog posts:
+
+- [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
