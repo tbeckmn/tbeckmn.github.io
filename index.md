@@ -12,7 +12,7 @@ I create and implement content strategy for three main segments: leisure guests,
 
 In addition to content, I take the lead on building growth and engagement for our email lists and social media channels. I also manage Facebook ads, Google ads, and SEO.
 
-For all of these endeavors I compile digital analytics reports and present them to our executive team.
+For all of these endeavors I compile analytics reports and present them to our executive team.
 
 Here are some of my favorite blog posts:
 
