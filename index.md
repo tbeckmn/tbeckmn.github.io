@@ -6,9 +6,7 @@
 
 <img src="images/concourse.png?raw=true"/>
 
-I currently work at [The Madison Concourse Hotel and Governor's Club](https://www.concoursehotel.com/) as a Digital Marketing Specialist.
-
-My main role is all things content for our website, blog, emails, and social media channels.
+I currently work at [The Madison Concourse Hotel and Governor's Club](https://www.concoursehotel.com/) as a Digital Marketing Specialist. My main role is all things content for our website, blog, emails, and social media channels.
 
 I create and implement content strategy for three main segments: leisure guests, weddings, and meetings and events.
 
