@@ -19,5 +19,3 @@ Other little tidbits about me:
 - I’m a huge tea nerd (some might say snob).
 
 That’s all for now! Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/tbeckmn/) or email.
-
-[Back To Portfolio](https://tbeckmn.github.io/)
