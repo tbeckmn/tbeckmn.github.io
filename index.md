@@ -38,7 +38,7 @@ Here are some other cool projects:
 
 I started my career working for digital marketing agencies in Portland, Oregon. I created content mostly for small and midsized service busniesses with the goal of lead generation.
 
-I filled the role of lead writer as well as managing editor of a team of writers and designers. Our team produced high-quality, strategy-driven content on schedule for websites, blogs, social media, and marketing emails.
+I filled the role of lead writer as well as managing editor of a team of writers and designers. Our team produced high quality, strategy-driven content on schedule for websites, blogs, social media, and marketing emails.
 
 I also worked with clients directly on content strategy and created analytics reports.
 
